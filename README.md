@@ -1,5 +1,6 @@
 # ROG-STRIX-B760-I-GAMING-WIFI-Hackintosh
 
+更新为opencore 0.9.2 系统版本为 Macos 13.4
 硬件信息
 
 
